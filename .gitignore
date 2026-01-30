@@ -1,0 +1,11 @@
+# Intellij
+.idea/
+
+# Compilados
+out/
+
+# Arquivos de build
+*.class
+
+# Logs
+*.log
